@@ -19,7 +19,7 @@ const MyCard = () => (
     <CardMedia
       overlay={<CardTitle title="Building Things Together" subtitle="Imagine That..." />}
     >
-      <img src="/img/fist-bump.jpg" alt="Fist bump between multiple people" />
+      <img src="img/fist-bump.jpg" alt="Fist bump between multiple people" />
     </CardMedia>
     <CardTitle title="My Story" />
     <CardText>
